@@ -6,7 +6,7 @@
 
 ## 📦 Required Libraries & Tools
 
-To run or build the game, you'll need the following Java libraries:
+To run or build the game, you'll need the following Java libraries (included in the /lib folder):
 
 - **Jackson Annotations** v2.18.2  
 - **Jackson Core** v2.18.2  
@@ -15,19 +15,11 @@ To run or build the game, you'll need the following Java libraries:
 🔗 Download from the official Jackson repository:  
 https://github.com/FasterXML/jackson
 
-## Running the game
-
-1. Open the folder group64
-
-2. Type the command "java -jar Executable.jar"
-
----
-
 ## ▶️ Running the Game
 
-Once compiled, opened in an IDE, or the executable is ran:
+1. Open the folder group64 in an IDE or similar editor
 
-- The game will launch automatically.
+2. Run PetCrossing.java
 
 ---
 
